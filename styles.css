@@ -1,0 +1,59 @@
+body{
+    background-color: lightblue;
+    max-width:25%;
+    margin: auto
+}
+
+h1,h3{
+    background-color: lightpink;
+    padding: 10px;
+    border-radius: 50px 20px;
+}
+
+#all-buttons{
+    background-color: lightpink; /* Green */
+    border-radius: 50px 20px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#rockB,#paperB,#scissorsB{
+    border-radius: 10px;
+    border-color: lightpink;
+    background-color: white;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+#userI{
+    padding-right: 30px;
+    border-radius: 10px;
+}
+
+#compI{
+padding-left: 30px;
+border-radius: 10px;
+}
+
+p{
+    background-color:lightpink;
+    padding: 10px;
+    border-radius: 50px 20px;
+}
+
+h5{
+    float: right;
+}
+
+
+
